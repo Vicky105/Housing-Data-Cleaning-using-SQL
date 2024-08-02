@@ -15,7 +15,7 @@ This project involves cleaning and preprocessing housing data using SQL. The foc
 
 ## Data Sources
 Housing Data dataset:
-- [Housing Data](#link-to-your-dataset)
+- [Housing Data](https://github.com/Vicky105/Housing-Data-Cleaning-using-SQL/blob/4c7097ed72e73acf771527d6c051209c6622a063/Housing%20Data.csv)
 
 ## Data Dictionary
 
